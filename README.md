@@ -29,8 +29,7 @@ registrando.
 
 ## 2. Repositório:
 
-API:
-Pacote:
+API: https://github.com/anaferreiira/Cadastro_de_OcorrenciaBack/tree/Cadastro_de_OcorrenciaBack
 
 ## 3. Segurança
 
